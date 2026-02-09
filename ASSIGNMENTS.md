@@ -5,8 +5,6 @@ You are building the backend for an e-commerce platform. The system handles prod
 
 **Source Code:** All initial source code is located in `demo/` directory.
 
----
-
 ## **ASSIGNMENT 01: SOLID PRINCIPLES REFACTORING**
 
 **Objective:** Refactor a legacy "God Class" order processing system to adhere to SOLID principles.
@@ -23,8 +21,6 @@ You are building the backend for an e-commerce platform. The system handles prod
 
 **Action:** Analyze the problems, write down your solutions reasoning to `README.md` and refactor the code.
 
----
-
 ## **ASSIGNMENT 02: CREATIONAL DESIGN PATTERNS**
 
 **Objective:** Apply Creational Design Patterns to improve object creation in an e-commerce system.
@@ -39,8 +35,6 @@ You are building the backend for an e-commerce platform. The system handles prod
 4. Creating an `Order` is confusing with 13 constructor parameters. It's unclear what `true, true, null` means without checking the signature.
 
 **Action:** Analyze the problems, write down your solutions reasoning to `README.md` and refactor the code.
-
----
 
 ## **ASSIGNMENT 03: STRUCTURAL & BEHAVIORAL PATTERNS**
 

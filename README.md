@@ -1,8 +1,10 @@
 # **SELF-LEARNING GUIDE: OOP ADVANCED (INSTRUCTION)**
 
 **Target Audience:** Intern Developer/Data Engineer
+
 **Format:** Self-learning (Independent Research) & Workshop & Evaluation
-**Duration:** 9 days (self-learning + assignment + workshop) and 1 day evaluation (theory + practice)
+
+**Duration:** 9 days (self-learning + assignment + workshop) and 5 days evaluation (theory + practice)
 
 ## **I. LEARNING ROADMAP & KNOWLEDGE SCOPE**
 
@@ -96,7 +98,7 @@ _Action:_ Complete **Assignment 03** in [ASSIGNMENTS.md](./ASSIGNMENTS.md).
 
 **Activity:** Present and review Assignment 03 solutions. Discuss pattern trade-offs and real-world applications.
 
-### **DAY 10-15: EVALUATION**
+### **DAY 10-14: EVALUATION**
 
 **Format:**
 
